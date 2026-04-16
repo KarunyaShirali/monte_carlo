@@ -1,5 +1,6 @@
 # API Reference
 
+::: monte_carlo
 
 ```{eval-rst}
 .. automodule:: monte_carlo
