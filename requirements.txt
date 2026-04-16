@@ -2,4 +2,4 @@ numpy
 matplotlib
 sphinx
 sphinx_rtd_theme
-myst-parser
+myst_parser
