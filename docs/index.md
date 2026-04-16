@@ -1,0 +1,9 @@
+# monte_carlo
+
+A package to perform Monte Carlo simulations.
+
+## Getting started
+
+- [Installation](installation.md) - how to install monte_carlo
+- [Usage](usage.md) - how to use monte_carlo
+- [API Reference](api.md) - auto-generated API documentation
